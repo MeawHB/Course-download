@@ -7,10 +7,11 @@ npm install request
 npm install cheerio
 
 3.创建json文件，命名为config.json
-  { 
-    "username": "xxx", 
-    "password": "yyy"
-  }
+
+    { 
+      "username": "xxx", 
+      "password": "yyy"
+    }
 
 4.下载download-V2.js
   打开cmd 
