@@ -1,4 +1,4 @@
-# Course-download
+# Course download
 
 1.安装node环境（略）
 
@@ -6,13 +6,9 @@
 npm install request   
 npm install cheerio
 
-3.创建json文件，命名为config.json
+3.clone代码
 
-    { 
-      "username": "xxx", 
-      "password": "yyy"
-    }
+4.将json文件，xxx修改为用户名，yyy修改为密码
 
-4.下载download-V2.js  
-  打开cmd     
-  执行node download-V2.js
+5.打开cmd     
+  执行node download.js
