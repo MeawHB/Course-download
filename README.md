@@ -13,6 +13,6 @@ npm install cheerio
       "password": "yyy"
     }
 
-4.下载download-V2.js
-  打开cmd 
+4.下载download-V2.js  
+  打开cmd     
   执行node download-V2.js
