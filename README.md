@@ -16,5 +16,7 @@ npm install cheerio
 
 4.将json文件，xxx修改为用户名，yyy修改为密码
 
-5.
-```node download.js```
+5.执行代码
+```
+node download.js
+```
