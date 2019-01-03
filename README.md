@@ -2,7 +2,7 @@
 
 1.安装node环境（略）
 
-2.使用node附带的npm工具，打开cmd，安装依赖组件request和cheerio  
+2.打开cmd，使用node附带的npm工具，安装依赖组件request和cheerio  
 npm install request   
 npm install cheerio
 
