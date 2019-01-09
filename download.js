@@ -1,4 +1,3 @@
-//test
 const request = require('request');
 const config = require('./config.json');
 const cheerio = require('cheerio');
@@ -247,7 +246,7 @@ async function download() {
                     })
                 }
             }
-            if (href.indexOf("video") != -1) {
+            if (href.indexOf("video") != -1 && href.endsWith("html") === true ) {
                 video_arr.push({
                     name: idarr[i].name,
                     url: href,
